@@ -3,3 +3,4 @@
 3>persistence.xml ---> too add postgresSql database configurations in hibernate into persistence.xml file
                       if you want any other database configurations change the DBUrl, DB user && DB Password
 4>spring core xml config.txt -----> to Register and Map the Bean classes in the Spring Core into myapplicationconfig.xml
+5>starter dependencies.txt -----> dependenccies for contentType in spring boot
